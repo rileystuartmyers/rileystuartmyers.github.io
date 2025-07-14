@@ -8,14 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Your Name / Site Title"
+site_theme               : "dark"
+title                    : "Riley Stuart Myers"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Riley Stuart Myers"
+description              : &description "Software Engineering / Data Science"
+url                      : https://rileystuartmyers.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "rileystuartmyers/rileystuartmyers.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Stuart"
+  pronouns         : "he/him"
+  bio              : "Bachelors in Computer Science @ UH 2024! Go Coogs!"
+  location         : "Houston, Texas"
+  employer         : "Outlier AI"
+  uri              : "https://github.com/rileystuartmyers"
+  email            : "rileystuartmyers@gmail.com" 
 
   # Academic websites
   academia         : # URL
